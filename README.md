@@ -5,9 +5,8 @@
 
 ![Rodrigo RRS](https://github-readme-stats.vercel.app/api?username=Rodrigo-rrs&show_icons=true&theme=dark)
 
-</div>
- 
+<div align="center">
+
   ![Snake animation](https://github.com/Rodrigo-rrs/Rodrigo-rrs/blob/output/github-contribution-grid-snake.svg)
- 
+  
 </div>
- 
